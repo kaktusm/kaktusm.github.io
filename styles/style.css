@@ -99,7 +99,7 @@ body {
   position: absolute;
   height: 525px;
   top: 50px;
-  right: 0px;
+  right: -80px;
 }
 
 .header-text {
@@ -121,11 +121,6 @@ body {
 }
 
 /** VIDEO **/
-/* .video {
-  position: relative;
-  height: 814px;
-} */
-
 .video-title {
   font-size: 60px;
   text-align: center;
